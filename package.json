@@ -1,0 +1,26 @@
+{
+  "name": "fis-parser-es6",
+  "version": "0.0.1",
+  "description": "parser typescript to es5",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haledeng/fis-parser-es6.git"
+  },
+  "keywords": [
+    "typescript",
+    "es6"
+  ],
+  "author": "helondeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haledeng/fis-parser-es6/issues"
+  },
+  "homepage": "https://github.com/haledeng/fis-parser-es6#readme"
+}
